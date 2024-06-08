@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif)
 
 # 💫 About Me:
-Hi 👋, I'm Alparslan Akkan - Full stack JAVA -Developer From Turkey<br><br>📫 How to reach me AlparslanAkkan1@gmail.com<br>📄 Know about my experiences linkedin.com/in/alparslan-akkan-838258222/<br>📝 I regularly write articles on https://medium.com/@alparslanakkan1<br>🔭 I’m currently working on learnin deeply java<br>🤝 I’m looking for help with learnin AI<br>🌱 I’m currently learning Java and Database<br>💬 Ask me about Software Skills<br>
+Hi 👋, I'm Alparslan Akkan - Full stack JAVA -Developer From Turkey<br><br>📫 How to reach me AlparslanAkkan1@gmail.com<br>📄 Know about my experiences linkedin.com/in/alparslan-akkan-838258222/<br>📝 I regularly write articles on https://medium.com/@alparslanakkan1<br> 🔭 I often practice on the hackerrank site https://www.hackerrank.com/profile/alparslanakkan1 <br> 🔭 I’m currently working on learnin deeply java<br>🤝 I’m looking for help with learnin AI<br>🌱 I’m currently learning Java and Database<br>💬 Ask me about Software Skills<br>
 
 
 ## 🌐 Socials:
